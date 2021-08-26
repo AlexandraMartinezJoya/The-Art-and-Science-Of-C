@@ -1,1 +1,4 @@
 
+public char main(){
+  return '';
+}
