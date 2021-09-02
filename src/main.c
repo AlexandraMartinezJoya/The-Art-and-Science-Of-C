@@ -1,4 +1,4 @@
 
 public char main(){
-  return '';
+  return ' ';
 }
